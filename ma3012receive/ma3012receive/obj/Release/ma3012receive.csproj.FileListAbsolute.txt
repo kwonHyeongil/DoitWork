@@ -1,0 +1,38 @@
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma301plus2receive\bin\Release\ma3012receive.exe.config
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma301plus2receive\bin\Release\ma3012receive.exe
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma301plus2receive\bin\Release\ma3012receive.pdb
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma301plus2receive\bin\Release\MySql.Data.dll
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma301plus2receive\bin\Release\Python.Runtime.dll
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma301plus2receive\bin\Release\BouncyCastle.Crypto.dll
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma301plus2receive\bin\Release\Ubiety.Dns.Core.dll
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma301plus2receive\bin\Release\MySql.Data.xml
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma301plus2receive\obj\Release\ma3012receive.csproj.CoreCompileInputs.cache
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma301plus2receive\obj\Release\ma3012receive.csproj.CopyComplete
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma301plus2receive\obj\Release\ma3012receive.exe
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma301plus2receive\obj\Release\ma3012receive.pdb
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\ma3012receive.exe.config
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\ma3012receive.exe
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\ma3012receive.pdb
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\MySql.Data.dll
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\Python.Runtime.dll
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\BouncyCastle.Crypto.dll
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\Ubiety.Dns.Core.dll
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\MySql.Data.xml
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\obj\Release\ma3012receive.csproj.CoreCompileInputs.cache
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\obj\Release\ma3012receive.csproj.CopyComplete
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\obj\Release\ma3012receive.exe
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\obj\Release\ma3012receive.pdb
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\obj\Release\ma3012receive.csprojAssemblyReference.cache
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\ma3012receive.exe.config
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\ma3012receive.exe
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\ma3012receive.pdb
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\MySql.Data.dll
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\Python.Runtime.dll
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\BouncyCastle.Crypto.dll
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\Ubiety.Dns.Core.dll
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\bin\Release\MySql.Data.xml
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\obj\Release\ma3012receive.csprojAssemblyReference.cache
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\obj\Release\ma3012receive.csproj.CoreCompileInputs.cache
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\obj\Release\ma3012receive.csproj.CopyComplete
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\obj\Release\ma3012receive.exe
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012receive\ma3012receive\obj\Release\ma3012receive.pdb

@@ -1,0 +1,28 @@
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SITE\ma3012sock\ma3012sock\bin\Release\ma3012sock.exe.config
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SITE\ma3012sock\ma3012sock\bin\Release\ma3012sock.exe
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SITE\ma3012sock\ma3012sock\bin\Release\ma3012sock.pdb
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SITE\ma3012sock\ma3012sock\obj\Release\ma3012sock.csprojAssemblyReference.cache
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SITE\ma3012sock\ma3012sock\obj\Release\ma3012sock.csproj.CoreCompileInputs.cache
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SITE\ma3012sock\ma3012sock\obj\Release\ma3012sock.exe
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SITE\ma3012sock\ma3012sock\obj\Release\ma3012sock.pdb
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\bin\Release\ma3012sock.exe.config
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\bin\Release\ma3012sock.exe
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\bin\Release\ma3012sock.pdb
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\obj\Release\ma3012sock.csprojAssemblyReference.cache
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\obj\Release\ma3012sock.csproj.CoreCompileInputs.cache
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\obj\Release\ma3012sock.exe
+D:\Doit_Works\2.용역과업\광주광역시 남구청 재난대응 조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\obj\Release\ma3012sock.pdb
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\bin\Release\ma3012sock.exe.config
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\bin\Release\ma3012sock.exe
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\bin\Release\ma3012sock.pdb
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\obj\Release\ma3012sock.csprojAssemblyReference.cache
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\obj\Release\ma3012sock.csproj.CoreCompileInputs.cache
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\obj\Release\ma3012sock.exe
+D:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\obj\Release\ma3012sock.pdb
+E:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\bin\Release\ma3012sock.exe.config
+E:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\bin\Release\ma3012sock.exe
+E:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\bin\Release\ma3012sock.pdb
+E:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\obj\Release\ma3012sock.csprojAssemblyReference.cache
+E:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\obj\Release\ma3012sock.csproj.CoreCompileInputs.cache
+E:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\obj\Release\ma3012sock.exe
+E:\Doit_Works\2.용역과업\광주남구청조기경보시스템\소프트웨어\SERVER\ma3012sock\ma3012sock\obj\Release\ma3012sock.pdb
